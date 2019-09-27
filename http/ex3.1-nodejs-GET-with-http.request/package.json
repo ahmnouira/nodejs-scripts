@@ -1,0 +1,7 @@
+{
+	"name": "ex3.1",
+	"version": "1.0.0",
+	"description": "nodejs GET using http.request",
+	"main": "app.js",
+	"license": "MIT"
+}

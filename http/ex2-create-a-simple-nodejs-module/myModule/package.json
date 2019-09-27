@@ -1,0 +1,7 @@
+{
+	"nanm": "currentDate", 
+	"version": "1.0.0", 
+	"main":  "./lib/myModule",
+	"license": "MIT"
+
+}

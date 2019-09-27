@@ -1,0 +1,8 @@
+{
+	"name" : "ex2",
+	"version" : "1.0.0",
+	"description" : "create a simple nodejs module for showing the current date",
+	"main" : "app.js",
+	"license": "MIT"
+}
+	
