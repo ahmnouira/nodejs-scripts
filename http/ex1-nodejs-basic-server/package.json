@@ -1,7 +1,0 @@
-{
-	"name" :"ex1",
-	"version" : "1.0.0",
-	"main": "app.js",
-	"description" :"basic node.js web server",
-	"license": "MIT"
-}
